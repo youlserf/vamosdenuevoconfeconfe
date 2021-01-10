@@ -1,0 +1,24 @@
+
+.navbar .nav-item .nav-link
+{
+    color:white;
+}
+.main-header{
+    background: url(../img/fondo.jpg);
+    min-height: 500px;
+}
+/*comentario xd xd*/
+.backgroup-overlay{
+    background-color: rgba(48,51,107,.7);
+    width: 100%
+    height: 100%
+}
+#bbhola{
+    background-color: rgba(48,51,107,.7);
+    width: 100%
+    height: 100%
+}
+#helado{
+    margin-top: 10px;
+}
+
